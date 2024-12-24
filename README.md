@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ResumeBuilder.so
+
+ResumeBuilder.so is a powerful and user-friendly platform for creating, editing, and customizing professional resumes. Whether you're starting your career or a seasoned professional, ResumeBuilder.so has everything you need to craft the perfect resume.
+
+## Features
+
+### 🆓 Free Resume Creation
+- Create resumes for free with access to a variety of professional templates.
+- Customize sections like work experience, education, skills, and more.
+
+### 💼 Premium Features
+- Unlock exclusive templates and advanced formatting options with our paid plans.
+- Personalize layouts and designs to make your resume stand out.
+
+### ✍️ Easy Editing
+- Effortlessly edit your resume anytime.
+- Add, update, or remove details to keep your resume relevant and impactful.
+
+### 📤 Export Options
+- Download your resume in multiple formats, including **PDF** and **Word**.
+- Share your resume with employers with just one click.
 
 ## Getting Started
 
-First, run the development server:
+1. Visit [ResumeBuilder.so](https://resumebuilder.so) and sign up for free.
+2. Select a template and start adding your details.
+3. Customize your resume using the easy-to-use editor.
+4. Export your resume or upgrade to premium for more features.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Why Choose ResumeBuilder.so?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Flexible Options**: Start for free and upgrade only when you need advanced features.
+- **Professional Templates**: Designed by experts to match industry standards.
+- **Convenience**: Create and edit your resume anytime, anywhere.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Feedback and Support
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+We’d love to hear your thoughts!  
+- 📧 Email us at [support@resumebuilder.so](mailto:support@resumebuilder.so).  
+- 🐦 Follow us on Twitter: [@ResumeBuilderSO](https://twitter.com/ResumeBuilderSO).  
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
+This project is proprietary and all rights are reserved by **ResumeBuilder.so**. Please refer to our [Terms and Conditions](https://resumebuilder.so/terms) for more details.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Start building your dream resume today at [ResumeBuilder.so](https://resumebuilder.so)!
